@@ -1,9 +1,9 @@
-La idea de <strong>GsTurnos</strong> surgio por experiencia propia de haber trabajado en una clinica me encontre con el habitual inconveniente, de que si bien se utiliza tecnologia, estas no son siempre del todo eficaz. En cuanto a GsTurnos especificamente es por el software desactualizado y no tan amigable con el usuario (profesional y administradores) en cuanto a la edicion de los siguientes datos:
+La idea de <strong>GsTurnos</strong> surgio por experiencia propia de haber trabajado en una clinica de rehabilitacion como administrativo. Me encontre con el habitual inconveniente, de que si bien se utiliza tecnologia, estas no son siempre del todo eficaz. En cuanto a GsTurnos especificamente, la idea es brindar una servicio que ayude a derrocar software desactualizado y no tan amigable con el usuario (profesional y administradores) en cuanto a la edicion de los siguientes datos:
 *Cambio de horarios de profesionales
 *Agregar/quitar turnos
 *Falta de acceso remoto del profesional
 entre otras... 
-Dependia de los administrativos llamar y confirmar cada turno asignado con un dia de anticipacion, cuando con este proyecto se trata de solucionar este y otros inconvenientes.
+Dependia de los administrativos llamar y confirmar cada turno asignado con un dia de anticipacion, cuando con este proyecto se trata de solucionar este y otros inconvenientes que encontre a lo largo de mi experiencia con el software antes mencionado.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
